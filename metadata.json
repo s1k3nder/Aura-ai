@@ -1,0 +1,7 @@
+{
+  "name": "aura-AI",
+  "description": "A sophisticated, flirty, and emotionally intelligent AI partner featuring dynamic Realistic and Anime modes with built-in high-detail image synthesis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
